@@ -15,7 +15,7 @@
     background-color: blue;
 }
 
-.invader {
+.invader { 
     background-color: purple;
     border-radius: 10px;
 }
@@ -25,5 +25,5 @@
 }
 
 .laser {
-    background-color: yellow;
+    background-color: orange;
 }
